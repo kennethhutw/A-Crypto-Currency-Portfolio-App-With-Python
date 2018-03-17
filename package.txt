@@ -1,0 +1,5 @@
+pip install request
+pip install json
+pip install matplotlib
+
+refer to https://pythonspot.com/matplotlib-pie-chart/
