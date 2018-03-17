@@ -3,15 +3,15 @@
 
 ## coinmarketcap API
 
-![Image](https://github.com/kennethhutw/A-Crypto-Currency-Portfolio-App-With-Python/master/images/coinmarket.jpg)
+![Image](https://github.com/kennethhutw/A-Crypto-Currency-Portfolio-App-With-Python/blob/master/images/coinmarket.jpg)
 
 ## A-Crypto-Currency-Portfolio-App
 
 ### Portfolio
-![Image](https://github.com/kennethhutw/A-Crypto-Currency-Portfolio-App-With-Python/master/images/portfolio.jpg)
+![Image](https://github.com/kennethhutw/A-Crypto-Currency-Portfolio-App-With-Python/blob/master/images/portfolio.jpg)
 
 ### Pie Chart
-![Image](https://github.com/kennethhutw/A-Crypto-Currency-Portfolio-App-With-Python/master/images/chart.jpg)
+![Image](https://github.com/kennethhutw/A-Crypto-Currency-Portfolio-App-With-Python/blob/master/images/chart.jpg)
 
 
 ## Matplotlib
