@@ -1,5 +1,8 @@
 # A-Crypto-Currency-Portfolio-App-With-Python
 
+## Application 
+
+![Image](https://github.com/kennethhutw/A-Crypto-Currency-Portfolio-App-With-Python/blob/master/images/app.jpg)
 
 ## coinmarketcap API
 
